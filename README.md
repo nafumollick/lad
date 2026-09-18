@@ -20,3 +20,6 @@ The Reviews section is set up to display a photo for each testimonial. To add on
 4. Drop it into `img/reviews/`.
 
 Any review without a matching file automatically falls back to the generic icon — no HTML/CSS editing needed. Also update the placeholder name/title text next to each photo in `index.html` to match.
+
+
+site :https://nafumollick.github.io/lad/
